@@ -10,6 +10,7 @@ PHYS4037 MLIS Project - Project Selection.
 7. [Project 10: Assembly of large scale structure in the Universe](#project-10-assembly-of-large-scale-structure-in-the-universe)
 8. [Project 13: Simulating the Universe](#project-13-simulating-the-universe)
 9. [Project 17: Development of a gesture-controlled robot](#project-17-development-of-a-gesture-controlled-robot)
+10. [Project Selection Order](#project-selection-order)
 
 # Overview
 Complete details of all the projects can be found in the [Moodle page](https://moodle.nottingham.ac.uk/course/view.php?id=123208).
@@ -65,3 +66,6 @@ Dr Adam Moss (adam.moss@nottingham.ac.uk)
 
 # Project 17: Development of a gesture-controlled robot
 Jon Michaelis (jm@neater.co.uk)
+
+# Project Selection Order
+1. Project 1: Deep Learning Network for Fatigue Monitoring of Wind Turbine Blades
