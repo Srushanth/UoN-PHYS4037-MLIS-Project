@@ -70,8 +70,8 @@ Jon Michaelis (jm@neater.co.uk)
 # Project Selection Order
 1. Project 1: Deep Learning Network for Fatigue Monitoring of Wind Turbine Blades
 2. Project 4: Mapping Sites Associated with Slavery from Space
-3. Project 17: Development of a gesture-controlled robot
 4. Project 6: Quantum reinforcement learning
 5. Project 7: Supervised machine learning on a quantum computer
+3. Project 17: Development of a gesture-controlled robot
 6. Project 10: Assembly of large scale structure in the Universe
 7. Project 13: Simulating the Universe
